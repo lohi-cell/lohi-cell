@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kodali Lohitha</h1>
 <h3 align="center">I am a passionate Computer Science student specializing in Artificial Intelligence and Machine Learning.</h3>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps and Cloud Computing**
 
 - 💬 Ask me about **AI and ML**
 
